@@ -3,7 +3,7 @@
 1.Title: [Registration] Successfull registration flow
 
 Preconditions:
-User has navigated to registration page
+User has navigated to the registration page
 
 Steps:
 1. User enters a valid username
@@ -14,10 +14,12 @@ Steps:
 Expected result:
 User is redirected to the homepage. "You have registered successfully!" success message is displayed
 
+-------------------------------------------------------------------------------------------
+
 2.Title: [Registration] Registration flow with an invalid username
 
 Preconditions:
-User has navigated to registration page
+User has navigated to the registration page
 
 Steps:
 1. User enters a invalid username
@@ -28,10 +30,12 @@ Steps:
 Expected result:
 An error message under the username input field is displayed - "Username must be 3-20 alphanumeric characters."
 
+-------------------------------------------------------------------------------------------
+
 3.Title: [Registration] Registration flow with mismatched passwords
 
 Preconditions:
-User has navigated to registration page
+User has navigated to the registration page
 
 Steps:
 1. User enters a valid username
@@ -65,6 +69,8 @@ Actual result:
 The registration goes through successfully
 
 Evidence: Screenshot/Video recording 
+
+-------------------------------------------------------------------------------------------
 
 2.Title: [Registration][Bug] Input fields with errors are not highlighted
 
