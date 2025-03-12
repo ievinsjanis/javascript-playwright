@@ -1,4 +1,4 @@
-Task 1: Based on requirements create 3 manual test cases
+**Task 1: Based on requirements create 3 manual test cases
 
 1. Title: [Registration] Successfull registration flow
 
@@ -105,3 +105,4 @@ Task 6: What else can be tested?
 
 1. Accessability - keyboard navigation,voice over etc can be tested, 
 2. Tests on different browsers (chrome, safari), mobile devices and tablets (iOS, Android) can be done as well
+**
